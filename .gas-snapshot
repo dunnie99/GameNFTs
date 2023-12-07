@@ -1,0 +1,6 @@
+CounterTest:testFuzz_SetNumber(uint256) (runs: 256, μ: 27320, ~: 28409)
+CounterTest:test_Increment() (gas: 28379)
+GameTest:testmintBatch() (gas: 84392)
+GameTest:testmintItemToken():(uint256) (gas: 105413)
+GameTest:testmintMainToken() (gas: 66021)
+GameTest:testsafeTransferFrom():(uint256,uint256) (gas: 273374)
